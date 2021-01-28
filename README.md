@@ -1,6 +1,8 @@
 # c-key-logger
 A simple key logger made by using C++ and the windows API
 
+This only works on Windows OS 
+
 To get started
 1) Download both files 
 2) g++ -o system system.cpp
